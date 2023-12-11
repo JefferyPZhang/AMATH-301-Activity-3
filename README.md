@@ -1,1 +1,1 @@
-# AMATH-301-Activity-3
+# AMATH 301: Activity 3
